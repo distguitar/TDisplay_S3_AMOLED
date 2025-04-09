@@ -14,7 +14,7 @@
 ## Visual Studio 2022
 * .NET 8
 
-## Run Instruction
+## Run Instructions
 * Load Arduino project
 * Set <SSID> and <PASS> on lines 13 and 14 in "T_Display_S3_AMOLED_8.ino"
 * Compile and Deploy
